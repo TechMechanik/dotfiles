@@ -1,6 +1,6 @@
-<h1 align="center">~/.dotfiles</h1>
+<h1 align="center">~/dotfiles</h1>
 
-<p align='center'><sub>~~ Little things that you can't live without ~~</sub></p>
+<p align='center'><sub>~~ All the small things ~~</sub></p>
 
 ### ⚠️ Requirements
 
